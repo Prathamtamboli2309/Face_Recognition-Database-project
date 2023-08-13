@@ -1,11 +1,11 @@
-
+ 
 # Face_Recognition Database
 
-I developed a python project in which i use database and Face_Recognition.
+I developed a python project in which I use the database and Face_Recognition.
 
-This project is used to scan faces and add their entries in database when we have to fetch any recordc we have to scan the face of that person then it return all details of that person.
+This project is used to scan faces and add their entries in database when we have to fetch any records we have to scan the face of that person then it returns all details of that person.
 
-i used many python library and use machine learning KNN algorithm to match faces.
+I used many python library and use machine learning KNN algorithm to match faces.
 
 
 
